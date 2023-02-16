@@ -1,0 +1,17 @@
+body{
+	background: #fff2e3;
+}
+button{
+	background: #ff6b6b;
+	color: #fff;
+	font-size: 18px;
+	border-width: 0;
+	padding: 10px 15px;
+	margin: 20px 0;
+	border-radius: 20px;
+	cursor: pointer;
+	outline: none;
+}
+button:hover{
+	background: #c44d58;
+}
